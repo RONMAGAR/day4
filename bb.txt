@@ -1,3 +1,8 @@
+ plugin2
+bbbbbbbb in plugin2
+
  plugin1
 bbbbbbbbbbbbbbbbb plugin1
+
 modified
+
